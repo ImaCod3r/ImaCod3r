@@ -1,6 +1,6 @@
 # Olá! Eu sou o Edson Rodrigues 👋
 
-![Banner](https://www.github.com/ImaCod3r/ImaCod3r/main/blob/banner.jpg) <!-- Substitua pelo URL da sua imagem -->
+![Banner](https://www.github.com/ImaCod3r/ImaCod3r/blob/main/banner.jpg) <!-- Substitua pelo URL da sua imagem -->
 
 ---
 
