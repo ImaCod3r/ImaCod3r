@@ -1,6 +1,6 @@
 # Olá! Eu sou o Edson Rodrigues 👋
 
-![Banner](https://content.imageresizer.com/images/memes/Gigachad-On-The-Computer-meme-3.jpg) <!-- Substitua pelo URL da sua imagem -->
+![Banner](https://www.github.com/ImaCod3r/ImaCod3r/main/blob/banner.jpg) <!-- Substitua pelo URL da sua imagem -->
 
 ---
 
