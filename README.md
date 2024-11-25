@@ -3,7 +3,11 @@
 🎯 **Web developer** 
 🎓 **Self-taught programmer**
 
----
+## Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Imacod3r&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImaCod3r&layout=compact&theme=radical)
+
 
 ## My Stacks
 
@@ -20,9 +24,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/edson-rodrigues-b35738267/)
 [![E-mail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:er3303992@gmail.com)
-
----
-## Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Imacod3r&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImaCod3r&layout=compact&theme=radical)
