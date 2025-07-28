@@ -11,7 +11,7 @@ I'm a passionate fullstack developer from Angola who builds modern web and mobil
 * ✉️  You can contact me at [er3303992@gmail.com](mailto:er3303992@gmail.com)
 * 🚀  I'm currently working on [Pidiri App](http://pidiri.vercel.app)
 * 🧠  I'm learning React Native
-* ⚡  I'm secretly Bat... don't tell anyone 🤫
+* ⚡  I'm secretly Batman... don't tell anyone 🤫
 
 ### Skills
 
