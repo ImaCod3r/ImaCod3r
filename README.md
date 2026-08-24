@@ -2,7 +2,7 @@
 
 ### Hey there!
 
-I'm Edson Rodrigues, a passionate fullstack developer from Angola who builds modern web and mobile applications with clean code, scalable architecture, and real-world impact. See my portfolio at [edson-rodrigues.site](http://edson-rodrigues.site).
+I'm Edson Rodrigues, a passionate fullstack developer from Angola who builds modern web and mobile applications with clean code, scalable architecture, and real-world impact. See my portfolio at [freizin.me](http://freizin.me).
 
 ## Tech Stack & Tools 
 
