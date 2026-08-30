@@ -1,5 +1,3 @@
-<img src="https://i.pinimg.com/1200x/54/c8/4d/54c84db12072c83995b94c23c469ed0e.jpg" alt="Anime image from pinterest" />
-
 ### Hey there!
 
 I'm Edson Rodrigues, a passionate fullstack developer from Angola who builds modern web and mobile applications with clean code, scalable architecture, and real-world impact. See my portfolio at [freizin.me](http://freizin.me).
